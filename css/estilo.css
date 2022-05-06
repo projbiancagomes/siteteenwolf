@@ -30,3 +30,15 @@ p{
     text-align: justify;
     text-indent: 40px;
 }
+
+.parag_letras >p{
+    font-size: 1em;
+}
+.pinta_botao{
+    width: 150px;
+    height: 50px;
+    background-image: linear-gradient(to right, #f08080, #fff);
+} 
+.botao{
+    
+}
